@@ -1,0 +1,2677 @@
+[
+  {
+    "route_name": "Bus No 2",
+    "stops": [
+      {
+        "name": "Reliance Bunk",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Colony Hospital",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:42 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kumarapalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Aangur Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:47 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Rajam Theater",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:49 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kathari Perivu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kavandanur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:02 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "ICL",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:03 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Konganapuram Privuroad",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "RTO - Office Toll Gate",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vaigundham",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thalaiyur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:24 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kaligovundampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:26 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 7",
+    "stops": [
+      {
+        "name": "Sivadha Puram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Panakadu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thirumalaigiri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Nallampatty",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Murungapatty",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chittar Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "K.K Nagar",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kadaiyam Patty",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 14",
+    "stops": [
+      {
+        "name": "Salem Pilliyar Nagar",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "T.M.S.Set",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pattakovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:48 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Rajaganapathikovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:53 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Salem Old Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Line Medu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Annathana Patti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:12 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Neikkaarapatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 27",
+    "stops": [
+      {
+        "name": "Mecheri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sathapadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kamaneri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:28 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thulasampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Amarakunthi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pallipatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kachupalli",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:04 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Mulapaathai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:07 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Konganapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Mattam Patti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kannantheri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ondipanai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sunda Mettur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:22 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Alaganoor",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 26",
+    "stops": [
+      {
+        "name": "Ammapettai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ammapettai Jothi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:52 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Saradhas",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Easan",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:58 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ammapettai Colony",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Holly Cross",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:07 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Selanayakkanpatti Bye Pass",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 11",
+    "stops": [
+      {
+        "name": "Kannakurichi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Housing Unit",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:47 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Iyenthar Maaligahi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:48 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ramanathapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chinna Muniyappan Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:53 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chinnathirupathi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Manakkadu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:58 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Gandhi Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sundar Lodge",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:03 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Palace Theatre",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Uthamasolapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:22 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 29",
+    "stops": [
+      {
+        "name": "Vellalapatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Karuppur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Karumbalai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Salem New Bustand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:08 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ram Complex",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vidhyamandhir School",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:12 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "3 - Roads",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Jawahar Mill",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 12",
+    "stops": [
+      {
+        "name": "Thottiyanthottam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kandhampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chithalandhur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Valari Gate",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Mandaga Palayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "T.Gode-Salem Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:58 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kailasampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chinnathambi Palayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:03 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vattur Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:06 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "More Palayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:09 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sembampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:12 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kallukadai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "TCMS",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Suriyagoundampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 31",
+    "stops": [
+      {
+        "name": "Elampillai Santhi Studio",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Elampillai Bustand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:12 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Elampilli Market",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Perumagovundampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vembadithalam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Naduvaneari",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:28 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Railway Palam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 3",
+    "stops": [
+      {
+        "name": "Chithaar",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kuttamuniappan Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "3 Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:23 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kurappanaaikkanpalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:28 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Bhavani New Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:33 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Anthiyur Perivu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Bhavani Old Bustand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:38 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kalingarayanpalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Lakshminagar",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:43 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Valayakaranur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:53 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Tan India",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Muniappan Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pachampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chinnagovundanur Bye Pass",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kuppanur Bye Pass",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 28",
+    "stops": [
+      {
+        "name": "CSI School",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Apsara Town",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:02 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Annathana Patti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Nethimedu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:13 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kalyanamandabam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 9",
+    "stops": [
+      {
+        "name": "Dharmapuri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "6:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Nallampalli",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "6:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thomparakkampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "6:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Palayamputhur Toll Gate",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thoppur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Jodu Kuli",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thevatipatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Poosari Patti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pannapatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kamalapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Omalur Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Puliyampatty",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:48 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Toll Gate",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Periyar University",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:52 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Karumbalai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:59 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Dalmiya",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:01 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sankar Theatre",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:04 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kuranguchavati",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:06 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 16",
+    "stops": [
+      {
+        "name": "Aathur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "6:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Narasingapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Selliyampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:02 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kothambadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pethanayakkanpalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Putharagovundampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Valappadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Muthampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sashanchavadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Mettupatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Karipatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:48 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Minnampalli",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:52 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Authiyapattinam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:58 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Udiyappatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:02 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kumaragiri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:07 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Erumapalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Dhivya Theatre",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 30",
+    "stops": [
+      {
+        "name": "Rangampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Employmentoffice,Dieselshed",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sooram Patti 4 Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "0735: am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Karungalpalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Register Office",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:41 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pallipalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Otta Methai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07:46 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "07;58 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sanniyasi Patti Railway Gate",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:03 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Bhavani Perivu Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:07 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pacha Kadu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sangari Police Station",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:12 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sangari Old Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sangari New Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "08:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 6",
+    "stops": [
+      {
+        "name": "Namakkal Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Salem Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:18 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Chellappampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Buthansanthai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kalangani",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:38 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Puthu Chathiram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Andaloor Gate",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Mallur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Amman Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Attayampatti Privu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Athanoor",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vellapillayar Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Venanthur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 8",
+    "stops": [
+      {
+        "name": "Sowriyur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Jalagandapuram Market",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kapparthampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Karikampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Panikkanur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:53 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Etikuttai Medu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Aegapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Theppakuttai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thailampatti &amp; Kolipur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 10",
+    "stops": [
+      {
+        "name": "Salem Yercaud Adivaaram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Law College",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:48 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kollapatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Gorimadu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:52 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Housing Board",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:54 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Central Jail",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:57 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Hasthampatty",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vincent",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:03 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7-Arts College",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Power House",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:14 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Balamurugan Kovil",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 1",
+    "stops": [
+      {
+        "name": "KR Thoppur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Steel Plant",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Maramangalathu Patty",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Medical College",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Pall Pannai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sithanoor",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:01 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Solampalam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Puthu Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:07 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "RDO Bye Pass",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 13",
+    "stops": [
+      {
+        "name": "Salem 5 Roads",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Alagapuram",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:52 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Fair Lands",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:53 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Saradha College",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ramakrishna Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:56 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ramakrishna park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:58 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vijaya Hospital",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:59 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "4 Roads",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:02 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:30 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 15",
+    "stops": [
+      {
+        "name": "Aalampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "SPB Colony",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:35 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Anna Nagar",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:36 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kuchipalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Varapalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:42 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thokkavadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kootapalli",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:50 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Rajagoundampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:51 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Santhapettai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:52 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "T.Gote New-Old Bus Stand",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:55 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kolikalnatham",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vadugapatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Magudanchavadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:32 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "route_name": "Bus No 4",
+    "stops": [
+      {
+        "name": "Kanniyalam Patti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:25 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Thevur",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:40 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Maylampatti",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:42 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Moolapathai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:45 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kunchampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "7:49 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Edappadi",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:00 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Vellandi Valasu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:02 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sunnambu Soolai",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:05 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Rangampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:10 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Perivu Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:12 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Velliyampalayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:15 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kuthadi Palayam",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:17 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Kalipatti Perivu Road",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:20 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "R.K.Theater &amp; Mill",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:30 am",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "KIOT",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "8:40 am",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  }
+]
