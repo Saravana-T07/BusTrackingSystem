@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34312375/README.md)
 # 🚌 Bus Tracking System (TravelBuddy)
 
 A real-time college and institutional transit tracking web platform. TravelBuddy provides live GPS tracking, dynamic route navigation, estimated time of arrival (ETA), incident alerts, and administrative fleet management for educational institutions.
